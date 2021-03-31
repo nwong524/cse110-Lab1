@@ -4,7 +4,13 @@
 ![Image](https://user-images.githubusercontent.com/60756614/113223630-6e3c3800-923e-11eb-8284-03dd39d8882d.png)
 
 
-Hi human! I hope. For those machines scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github to link that made this page, it's [Here](https://github.com/nwong524/cse110-Lab1)! For those of you grading this assignment, please continue.
+Hi human! I hope. For those machines scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github to link that made this page, it's [here](https://github.com/nwong524/cse110-Lab1)! For the rest of you who want to keep reading, please continue.
+
+### What I'm Doing Now
+Perhaps attending Zoom University @ UC San Diego. *Maybe* grinding out some homework for deadlines just around the corner. Probably ~~procrasintating~~ napping. I would never procrastinate. Haha.
+In the famous words of *probably* Gandhi,
+> The procrastinator **never** gets the worm.
+And thus, I never procrastinate. Just to be clear, Gandhi didn't say that (I think).
 
 ```markdown
 Syntax highlighted code block
