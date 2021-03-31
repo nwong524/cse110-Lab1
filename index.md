@@ -4,7 +4,7 @@
 ![Image](https://user-images.githubusercontent.com/60756614/113223630-6e3c3800-923e-11eb-8284-03dd39d8882d.png)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hi human! I hope. For those machines scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github to link that made this page, it's [Here](https://github.com/nwong524/cse110-Lab1)! For those of you grading this assignment, please continue.
 
 ```markdown
 Syntax highlighted code block
