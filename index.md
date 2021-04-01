@@ -65,8 +65,13 @@ Youtube is a drug. Somebody stop me.
 
 ### Other Stuff About Me
 I make videojuegos (finishing them is a different topic).
+
 I kinda speak Spanish (rip 4 years of highschool Español).
+
 I might have been on a [TV show episode](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as a kid. I'm joking the real link is [here](https://www.youtube.com/watch?v=ug--wArsrCw).
+
 I am in constant danger of breaking something when I breakdance.
+
 I own over 20 plushies. Don't judge me.
+
 I'm looking forward to taking CSE 110!
