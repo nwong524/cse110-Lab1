@@ -1,7 +1,7 @@
 # Welcome to Nathaniel's Home Page!
 
 ## About Me
-![Image](https://user-images.githubusercontent.com/60756614/113223630-6e3c3800-923e-11eb-8284-03dd39d8882d.png)
+![Picture of me](Headshot.png)
 
 ```
 if(reader == human){
