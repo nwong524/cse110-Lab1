@@ -5,12 +5,9 @@
 
 ```
 if(reader == human){
-  access = true;
-} else{
-  access = false;
-}
-if(access){
   loadPage();
+} else{
+  begone();
 }
 ```
 Hi human! I hope. For those machines that somehow got past my impregnable firewall scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github for this page, it's [here](https://github.com/nwong524/cse110-Lab1)! And for those of you looking for a link to a page in the github with a link to this page that has links, click [here](README.md)! For the rest of you who want to keep reading, please continue.
