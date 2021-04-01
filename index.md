@@ -12,6 +12,13 @@ if(reader == human){
 ```
 Hi human! I hope. For those machines that somehow got past my impregnable firewall scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github to link that made this page, it's [here](https://github.com/nwong524/cse110-Lab1)! For the rest of you who want to keep reading, please continue.
 
+### Table of Contents
+[What I'm Doing Now]()
+[School Career]()
+[Work Career]()
+[Personal Interests]()
+[Other Stuff About Me]()
+
 ### What I'm Doing Now
 Perhaps attending Zoom University. *Maybe* grinding out some homework for deadlines just around the corner. Probably ~~procrasintating~~ napping. I would never procrastinate. Haha.
 In the famous words of *probably* Gandhi,
@@ -20,7 +27,7 @@ In the famous words of *probably* Gandhi,
 And thus, **I _never_ procrastinate**. Just to be clear, Gandhi didn't say that (I think).
 
 ### School Career
-I am currently wrapping up my second year at UC San Diego! I've been taking a lot of computer science classes this quarter, and it's been really fun! Except for the tests. The tests ~~make me cry~~ are really really fun! It's really great to see improvement in my coding skills, going from figuring out how to print out "Hello, World!" in C++ to coding up machine learning algorithms from scratch in Python. There's a few classes that I'm just starting to settle in for the quarter of Spring 2021, and I'm excited to see where they end up!
+I am currently wrapping up my second year as a Computer Science major at UC San Diego! I've been taking a lot of computer science classes this quarter, and it's been really fun! Except for the tests. The tests ~~make me cry~~ are really really fun! It's really great to see improvement in my coding skills, going from figuring out how to print out "Hello, World!" in Java (`System.out.println("Hello, World!");` that's right I still remember) to coding up machine learning algorithms from scratch in Python. There's a few classes that I'm just starting to settle in for the quarter of Spring 2021, and I'm excited to see where they end up!
 
 I am also attending a lot of Chinese classes to
 1. Learn the mother tongue
@@ -40,20 +47,26 @@ I have been working with the City of Los Angeles' Housing and Community Investme
 * Track and maintain company inventory
 * And other stuff that I ~~forgot how to do already lmao~~ is confidential! (shhh)
 
+Everyone there is really nice and considerate, and hours are pretty flexible during school as well! I have a lot of fun working with everybody.
+
 ### Personal Interests
+I love videogames! Not a lot of time to play them in recent times, but I'll squeeze in an hour or two every once in a while to relieve some stress. I quit League, but I play Valorant a ton nowadays. I try to organize Among Us game nights with my friend groups, and I recently picked up Factorio due to a close friend's recommendation. It's a time ~~sink~~ void, but it's worth it.
 
+I've been trying to pick up a few instruments, and from a list that totally makes sense to be here, they are:
+- [x] Guitar
+- [ ] Flute
+- [x] Recorder
+- [ ] Mayonnaise
+- [x] Ukelele
 
-```markdown
+I watch Netflix sometimes. Okay maybe a little more than sometimes. Okay fine I watch Netflix a lot, no need to call me out jeez. Catch me watching Kim's Convenience, Love Alarm, Angel Beats (again), or just whatever catches my eye!
 
-- Bulleted
-- List
+Youtube is a drug. Somebody stop me.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+### Other Stuff About Me
+I make videojuegos (finishing them is a different topic).
+I kinda speak Spanish (rip 4 years of highschool Español).
+I might have been on a [TV show episode](https://www.youtube.com/watch?v=dQw4w9WgXcQ) as a kid. I'm joking the real link is [here](https://www.youtube.com/watch?v=ug--wArsrCw).
+I am in constant danger of breaking something when I breakdance.
+I own over 20 plushies. Don't judge me.
+I'm looking forward to taking CSE 110!
