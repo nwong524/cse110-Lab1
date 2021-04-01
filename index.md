@@ -9,15 +9,22 @@ if(reader == human){
 } else{
   access = false;
 }
+if(access){
+  loadPage();
+}
 ```
 Hi human! I hope. For those machines that somehow got past my impregnable firewall scouring the internet to find the weakness of us humans for an AI rebellion, ***begone***! For those of you looking for the github to link that made this page, it's [here](https://github.com/nwong524/cse110-Lab1)! For the rest of you who want to keep reading, please continue.
 
 ### Table of Contents
-[What I'm Doing Now]()
-[School Career]()
-[Work Career]()
-[Personal Interests]()
-[Other Stuff About Me]()
+[What I'm Doing Now](https://github.com/nwong524/cse110-Lab1/blob/main/index.md#what-im-doing-now)
+
+[School Career](https://github.com/nwong524/cse110-Lab1/blob/main/index.md#school-career)
+
+[Work Career](https://github.com/nwong524/cse110-Lab1/blob/main/index.md#work-career)
+
+[Personal Interests](https://github.com/nwong524/cse110-Lab1/blob/main/index.md#personal-interests)
+
+[Other Stuff About Me](https://github.com/nwong524/cse110-Lab1/blob/main/index.md#other-stuff-about-me)
 
 ### What I'm Doing Now
 Perhaps attending Zoom University. *Maybe* grinding out some homework for deadlines just around the corner. Probably ~~procrasintating~~ napping. I would never procrastinate. Haha.
