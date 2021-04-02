@@ -63,7 +63,7 @@ I've been trying to pick up a few instruments, and from a list that totally make
 - [ ] Mayonnaise
 - [x] Ukelele
 
-I watch Netflix sometimes. Okay maybe a little more than sometimes. Okay fine I watch Netflix a lot, no need to call me out jeez. Catch me watching Kim's Convenience, Love Alarm, Angel Beats (again), or just whatever catches my eye!
+I watch Netflix sometimes. Okay maybe a little more than sometimes. Okay fine I watch Netflix with my girlfriend a lot, no need to call me out jeez. Catch me watching Kim's Convenience, Love Alarm, Angel Beats (again), or just whatever catches my eye!
 
 Youtube is a drug. Somebody stop me.
 
