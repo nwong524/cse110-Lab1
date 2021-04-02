@@ -49,7 +49,7 @@ I have been working with the City of Los Angeles' Housing and Community Investme
 * Provide customer service
 * Train employees in new technology
 * Track and maintain company inventory
-* And other stuff that I ~~forgot how to do already lmao~~ is confidential! (shhh)
+* And other stuff that ~~I forgot how to do already lmao~~ is confidential! (shhh)
 
 Everyone there is really nice and considerate, and hours are pretty flexible during school as well! I have a lot of fun working with everybody.
 
