@@ -54,7 +54,7 @@ I have been working with the City of Los Angeles' Housing and Community Investme
 Everyone there is really nice and considerate, and hours are pretty flexible during school as well! I have a lot of fun working with everybody.
 
 ### Personal Interests
-I love videogames! Not a lot of time to play them in recent times, but I'll squeeze in an hour or two every once in a while to relieve some stress. I quit League, but I play Valorant a ton nowadays. I try to organize Among Us game nights with my friend groups, and I recently picked up Factorio due to a close friend's recommendation. It's a time ~~sink~~ void, but it's worth it.
+I love videogames! Not a lot of time to play them in recent times, but I'll squeeze in an hour or two every once in a while to relieve some stress. I quit League, but I play Valorant a ton with my girlfriend nowadays! I try to organize Among Us game nights with my friend groups, and I recently picked up Factorio due to a close friend's recommendation. It's a time ~~sink~~ void, but it's worth it.
 
 I've been trying to pick up a few instruments, and from a list that totally makes sense to be here, they are:
 - [x] Guitar
@@ -63,7 +63,7 @@ I've been trying to pick up a few instruments, and from a list that totally make
 - [ ] Mayonnaise
 - [x] Ukelele
 
-I watch Netflix sometimes. Okay maybe a little more than sometimes. Okay fine I watch Netflix with my girlfriend a lot, no need to call me out jeez. Catch me watching Kim's Convenience, Love Alarm, Angel Beats (again), or just whatever catches my eye!
+I watch Netflix sometimes. Okay maybe a little more than sometimes. Okay fine I watch Netflix a lot, no need to call me out jeez. Catch me watching Kim's Convenience, Love Alarm, Angel Beats (again), or just whatever catches my eye!
 
 Youtube is a drug. Somebody stop me.
 
