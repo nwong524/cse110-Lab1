@@ -7,5 +7,5 @@ assignees: nwong524
 
 ---
 
-###Items to be fixed:
+###Items to be updated:
 *
